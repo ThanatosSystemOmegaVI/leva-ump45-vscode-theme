@@ -1,0 +1,23 @@
+{
+	"name": "Leva / ump45",
+	"displayName": "Leva / ump45",
+	"description": "Leva / ump45 from Girls frontline",
+	"publisher": "PlutonicVoid",
+	"repository": "https://github.com/ThanatosSystemOmegaVI/leva-ump45-vscode-theme",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.97.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Leva/Ump45",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ump-45-leva-color-theme.json"
+			}
+		]
+	}
+}
