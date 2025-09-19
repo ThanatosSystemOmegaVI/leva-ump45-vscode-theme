@@ -4,7 +4,7 @@
 	"description": "Leva / ump45 from Girls frontline",
 	"publisher": "PlutonicVoid",
 	"repository": "https://github.com/ThanatosSystemOmegaVI/leva-ump45-vscode-theme",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"engines": {
 		"vscode": "^1.97.0"
 	},
